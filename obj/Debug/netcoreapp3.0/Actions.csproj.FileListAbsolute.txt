@@ -1,0 +1,11 @@
+C:\Users\neb506\actionlist\src\Actions\bin\Debug\netcoreapp3.0\Actions.exe
+C:\Users\neb506\actionlist\src\Actions\bin\Debug\netcoreapp3.0\Actions.deps.json
+C:\Users\neb506\actionlist\src\Actions\bin\Debug\netcoreapp3.0\Actions.runtimeconfig.json
+C:\Users\neb506\actionlist\src\Actions\bin\Debug\netcoreapp3.0\Actions.runtimeconfig.dev.json
+C:\Users\neb506\actionlist\src\Actions\bin\Debug\netcoreapp3.0\Actions.dll
+C:\Users\neb506\actionlist\src\Actions\bin\Debug\netcoreapp3.0\Actions.pdb
+C:\Users\neb506\actionlist\src\Actions\obj\Debug\netcoreapp3.0\Actions.csprojAssemblyReference.cache
+C:\Users\neb506\actionlist\src\Actions\obj\Debug\netcoreapp3.0\Actions.AssemblyInfoInputs.cache
+C:\Users\neb506\actionlist\src\Actions\obj\Debug\netcoreapp3.0\Actions.AssemblyInfo.cs
+C:\Users\neb506\actionlist\src\Actions\obj\Debug\netcoreapp3.0\Actions.dll
+C:\Users\neb506\actionlist\src\Actions\obj\Debug\netcoreapp3.0\Actions.pdb
