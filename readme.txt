@@ -1,2 +1,1 @@
-some text
-more text
+This code reads the contents of action files in folers
